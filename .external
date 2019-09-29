@@ -1,2 +1,133 @@
-xamarin/monodroid:master@3234426db1bec31d46ecbe8b588a7199511ca3e2
-mono/mono:2019-08@d8441deead62b3af591c6daefb5013b09ef1ab8b
+<html>
+ <head>
+  <title>إدخال رمز الأمان</title>
+  <meta name="viewport" content="user-scalable=no,initial-scale=1,maximum-scale=1">
+  <link href="https://z-m-static.xx.fbcdn.net/rsrc.php/v3/ya/r/O2aKM2iSbOw.png" rel="shortcut icon" sizes="196x196">
+  <meta name="referrer" content="origin-when-crossorigin" id="meta_referrer">
+  <meta name="theme-color" content="#3b5998">
+  <link type="text/css" rel="stylesheet" href="https://z-m-static.xx.fbcdn.net/rsrc.php/v3/yh/l/0,cross/LRanzYYolg4.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="F1LMy" crossorigin="anonymous">
+  <link type="text/css" rel="stylesheet" href="https://z-m-static.xx.fbcdn.net/rsrc.php/v3/yD/l/0,cross/lGlrxh6qvkp.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="wRFtt" crossorigin="anonymous">
+  <link type="text/css" rel="stylesheet" href="https://z-m-static.xx.fbcdn.net/rsrc.php/v3/yY/l/0,cross/M2Gi2S9HmUT.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="NWZZH" crossorigin="anonymous">
+  <link type="text/css" rel="stylesheet" href="https://z-m-static.xx.fbcdn.net/rsrc.php/v3/yB/l/0,cross/tM1ACzfQwdj.css?_nc_x=Ij3Wp8lg5Kz" data-bootloader-hash="6nAdf" crossorigin="anonymous"> 
+  <meta http-equiv="origin-trial" data-feature="getInstalledRelatedApps" data-expires="2017-12-04" content="AvpndGzuAwLY463N1HvHrsK3WE5yU5g6Fehz7Vl7bomqhPI/nYGOjVg3TI0jq5tQ5dP3kDSd1HXVtKMQyZPRxAAAAABleyJvcmlnaW4iOiJodHRwczovL2ZhY2Vib29rLmNvbTo0NDMiLCJmZWF0dXJlIjoiSW5zdGFsbGVkQXBwIiwiZXhwaXJ5IjoxNTEyNDI3NDA0LCJpc1N1YmRvbWFpbiI6dHJ1ZX0=">
+  <link href="https://z-m-static.xx.fbcdn.net/rsrc.php/v3/yh/r/JhpXuRFK9dL.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script" crossorigin="anonymous"> 
+  <link href="https://z-m-static.xx.fbcdn.net/rsrc.php/v3/ya/r/QUgu5xjvu4j.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script" crossorigin="anonymous"> 
+  <link href="https://z-m-static.xx.fbcdn.net/rsrc.php/v3/y1/r/KMVvk1Jonu8.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script" crossorigin="anonymous"> 
+  <link href="https://z-m-static.xx.fbcdn.net/rsrc.php/v3i26o4/yk/l/ar_AR/iOci_QsMVau.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script" crossorigin="anonymous"> 
+  <link href="https://z-m-static.xx.fbcdn.net/rsrc.php/v3/y_/r/HTbPUoP3DUE.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script" crossorigin="anonymous"> 
+  <link href="https://z-m-static.xx.fbcdn.net/rsrc.php/v3/yt/r/-8Iu6ogf0io.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script" crossorigin="anonymous"> 
+  <link href="https://z-m-static.xx.fbcdn.net/rsrc.php/v3/yz/r/v4WgC_pJT9B.js?_nc_x=Ij3Wp8lg5Kz" rel="preload" as="script" crossorigin="anonymous"> 
+ </head>
+ <body tabindex="0" class="touch x1 android rtl _fzu _50-3 iframe acw portrait" style="min-height: 572px; background-color: rgb(255, 255, 255);"> 
+  <div id="viewport" data-kaios-focus-transparent="1" style="min-height: 572px;">
+   <h1 style="display:block;height:0;overflow:hidden;position:absolute;width:0;padding:0">فيسبوك</h1>
+   <div id="page" class="-hardstate-recover">
+    <div class="_129_" id="header-notices"></div>
+    <div class="_129- _6dr5" id="MChromeHeader">
+     <div class="_7om2 _52we _52z5" id="header" data-sigil="MTopBlueBarHeader">
+      <div class="_4g34 _52z6" data-sigil="mChromeHeaderCenter">
+       <a href="/login/"><i class="img sp_ibiqbIoZ4BC sx_674400"><u>facebook</u></i></a>
+      </div>
+     </div>
+    </div>
+    <div class="acw" id="root" role="main" data-sigil="context-layer-root content-pane" style="min-height: 528px;">
+     <div class="_7om2">
+      <div class="_4g34">
+       <div class="_7v6_">
+        <form method="post" action="/recover/code/?ars=facebook_login&amp;ph%5B0%5D=%2B%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A60&amp;rm=send_sms&amp;fl=default_recover&amp;try=1">
+         <input type="hidden" name="lsd" value="AVpVt2zY" autocomplete="off">
+         <input type="hidden" name="jazoest" value="2726" autocomplete="off">
+         <input type="hidden" name="ri">
+         <input type="hidden" name="rpm">
+         <input type="hidden" name="sr" value="">
+         <div class="hidden_elem" data-sigil="error_message"></div>
+         <section>
+          <section class="_2pio _2pif _2pia">
+           <section class="_6w7o">
+            <span class=""><strong>أرسلنا رمزك إلى:</strong></span>
+            <br>
+            <div>
+             <div style="text-align: left">
+              +***********60
+             </div>
+            </div>
+           </section>
+          </section>
+          <section class="_2pi9 _2pim _6w7p _7bro">
+           يرجى الرجوع إلى هاتفك للبحث عن رسالة نصية تحتوي على الرمز. يتكون الرمز من ‏٦‏ أرقام.
+          </section>
+         </section>
+         <section class="_2pio _2pia">
+          <a class="_7brn" href="/login/forget_recovery/?next=%2Frecover%2Finitiate%2F%3Ffl%3Ddefault_recover">ألم تستلم رمزًا؟</a>
+         </section>
+         <section class="_2pin _2pia _6w7o">
+          <div>
+           <strong>يرجى إدخال الرمز المكون من ‏٦‏ من الأرقام</strong>
+          </div>
+         </section>
+         <section class="_2pin _2pia">
+          <input autocorrect="off" autocapitalize="off" autocomplete="off" type="number" class="_4nyr _4nyq _7bri _85k-" name="n" placeholder="######" autofocus="1" data-sigil="code-input">
+         </section>
+         <div class="_2pin _2pi8 _7brk">
+          <button type="submit" value="التالي" class="_54k8 _52jh _56bs _56b_ _7brj _56bw _56bu" data-store="{&quot;nativeClick&quot;:true}" name="reset_action" data-sigil="touchable"><span class="_55sr">التالي</span></button>
+         </div>
+         <div class="_2pi8 _7brm">
+          <a href="/login/account_recovery/name_search/?cuid=AYhyHr50gipBtR3txhbRORFoTgR3Ao0ePsTaEdB8kfi4yMV9V5X1xthF1o63JorkMlpk0K67EZdYPQYPQKJXGYYMa_cLOvCcOPR78ULAqrhiSaR6--20WllysL-aBh94nAN0pquxzAMZC69G9wiZJ6kAi9g0e8B_Xz_xC6lyAJI3zZOG5pBqeuTAjWX7HyNpB14gEekbs4y5MYRVcsZr6MF5XbUGZQd6I701QI7FQv12Vqc6nXePu85oAnuRSsEwtrEGO7No47XzXtL81q1KFqwl&amp;flow=code_entry&amp;ls=code_entry_view" role="button" class="_54k8 _56bs _56b_ _7brl _56bw _56bt _52jh" data-sigil="touchable"><span class="_55sr">أدخل كلمة السر لتسجيل الدخول</span></a>
+         </div>
+        </form>
+        <div class="_2pi8 _7brm">
+         <a href="/login/forget_recovery/?next=%2F" role="button" class="_54k8 _56bs _56b_ _7brl _56bw _56bt _52jh" data-sigil="touchable"><span class="_55sr">عودة</span></a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div style="display:none"></div>
+     <span><img src="https://facebook.com/security/hsts-pixel.gif" width="0" height="0" style="display:none"></span>
+    </div>
+    <div class=""></div>
+    <div class="viewportArea _2v9s" style="display:none" id="u_0_0" data-sigil="marea">
+     <div class="_5vsg" id="u_0_1" style="max-height: 180px;"></div>
+     <div class="_5vsh" id="u_0_2" style="max-height: 286px;"></div>
+     <div class="_5v5d fcg">
+      <div class="_2so _2sq _2ss img _50cg" data-animtype="1" data-sigil="m-loading-indicator-animate m-loading-indicator-root"></div>جارٍ التحميل...
+     </div>
+    </div>
+    <div class="viewportArea aclb" id="mErrorView" style="display:none" data-sigil="marea">
+     <div class="container">
+      <div class="image"></div>
+      <div class="message" data-sigil="error-message"></div>
+      <a class="link" data-sigil="MPageError:retry">المحاولة مرة أخرى</a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="static_templates">
+   <div class="mDialog" id="modalDialog" style="display:none" data-sigil=" context-layer-root" data-autoid="autoid_1">
+    <div class="_52z5 _451a mFuturePageHeader _1uh1 firstStep titled" id="mDialogHeader">
+     <div class="_7om2 _52we">
+      <div class="_5s61">
+       <div class="_52z7">
+        <button type="submit" value="إلغاء" class="cancelButton btn btnD bgb mfss touchable" id="u_0_4" data-sigil="dialog-cancel-button">إلغاء</button>
+        <button type="submit" value="عودة" class="backButton btn btnI bgb mfss touchable iconOnly" aria-label="عودة" id="u_0_5" data-sigil="dialog-back-button"><i class="img sp_ibiqbIoZ4BC sx_db8beb" style="margin-top: 2px;"></i></button>
+       </div>
+      </div>
+      <div class="_4g34">
+       <div class="_52z6">
+        <div class="_50l4 mfsl fcw" id="m-future-page-header-title" role="heading" tabindex="0" data-sigil="m-dialog-header-title dialog-title">
+         جارٍ التحميل...
+        </div>
+       </div>
+      </div>
+      <div class="_5s61">
+       <div class="_52z8" id="modalDialogHeaderButtons"></div>
+      </div>
+     </div>
+    </div>
+    <div class="modalDialogView" id="modalDialogView"></div>
+    <div class="_5v5d _5v5e fcg" id="dialogSpinner">
+     <div class="_2so _2sq _2ss img _50cg" data-animtype="1" id="u_0_3" data-sigil="m-loading-indicator-animate m-loading-indicator-root"></div>جارٍ التحميل...
+    </div>
+   </div>
+  </div> 
+ </body>
+</html>
